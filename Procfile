@@ -1,1 +1,1 @@
-worker: node bot.js othinus-hosting
+worker: node bot.js 
